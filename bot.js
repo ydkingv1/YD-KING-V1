@@ -8,9 +8,9 @@ Explore
 @richusir 
 richusir
 /
-Richuser_b1
+RICHUSER_B1
 Public
-forked from richusir/Richuser_b1
+forked from richusir/RICHUSER_B1
 0
 1121
 Code
@@ -21,7 +21,7 @@ Wiki
 Security
 Insights
 Settings
-Richuser_b1/bot.js /
+RICHUSER_B1/bot.js /
 @richusir
 richusir Create bot.js
 Latest commit 21d64e4 on 9 Aug
@@ -31,7 +31,7 @@ Latest commit 21d64e4 on 9 Aug
 274 lines (239 sloc)  11.5 KB
   
 /* Copyright (C) 2020 Yusuf Usnta.
-RECODDED BY AFNANPPLK
+RECODDED BY richumlp
 Plk  
 */
 
