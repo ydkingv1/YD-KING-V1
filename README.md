@@ -46,7 +46,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![Richiser](<img src=b1.jpg.jpg>
- https://github.com/Amalser_v1 |  
+ https://github.com/Richuser_b1 |  
 ----|
 [Its_me_Richu](https://github.com/Richuser_b1)  |
 Base, Bug Fixes, Modules | 
