@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yuvsuf Usta.
-PINKY V2
+YD KING-V1
 */
 
 // Komutları burada tutacağız.
