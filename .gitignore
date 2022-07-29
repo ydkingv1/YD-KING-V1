@@ -102,7 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
-session.asena
+session.Dogar
 *.db
 package-lock.json
 .DS_Store
