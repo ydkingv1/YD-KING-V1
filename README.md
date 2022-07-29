@@ -45,7 +45,7 @@ By establishing the King, you are deemed to have accepted these responsibilities
 ## Developers
   <div align="center">
     
-  [![YD KING](<img 1652944797899.jpg>
+  [![YD KING](<1652944797899.jpg>
  https://github.com/YD KING-V1 |  
 ----|
 [Its_me_Yd king](https://github.com/YD KING-V1)  |
