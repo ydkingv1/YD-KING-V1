@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
-richusir
+@ydkingv1
+ydkingv1
 /
-RICHUSER_B1
+YD KING-V1
 Public
-forked from richusir/RICHUSER_B1
+forked from ydkingv1/YDKING-V1
 0
 1121
 Code
@@ -21,9 +21,9 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
-@richusir
-richusir Create bot.js
+YD KING-V1/bot.js /
+@ydkingv1
+ydkingv1 Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
  11 contributors
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Richuser working perfectly 💘')
+            chalk.green.bold('YD KING-V1 working perfectly 💘')
         );
     });
     
