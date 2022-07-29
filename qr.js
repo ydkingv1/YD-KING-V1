@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yugsuf Usta.
-PINKY V2
+YD KING-V1
 */
 
 const chalk = require('chalk');
@@ -7,7 +7,7 @@ const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/bailey
 const {StringSession} = require('./whatsasena/');
 const fs = require('fs');
 
-async function whatsAsena () {
+async function whatsKing () {
     const conn = new WAConnection();
     const Session = new StringSession();  
     conn.version = [2, 2119, 6]
@@ -15,8 +15,8 @@ async function whatsAsena () {
     conn.regenerateQRIntervalMs = 50000;
     
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
-${chalk.white.italic('AsenaString Kodu Alıcı')}
+        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('King')}
+${chalk.white.italic('KingString Kodu Alıcı')}
 
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     });
@@ -29,7 +29,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
         );
         
         if (!fs.existsSync('config.env')) {
-            fs.writeFileSync('config.env', `ASENA_SESSION="${st}"`);
+            fs.writeFileSync('config.env', `KING_SESSION="${st}"`);
         }
         if (conn.user.jid.startsWith('90')) {
             await conn.sendMessage(conn.user.jid,st, MessageType.text)
