@@ -1,15 +1,15 @@
 {
-    "name": "Amalser",
+    "name": "YASIR DOGAR",
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/cyberchekuthan/Amalser_v1",
+    "logo": "https://www.linkpicture.com/q/1652944797899.jpg",
+    "keywords": ["whatsapp", "userbot", "King", "WhatsKing", "bot", "api", "ai"],
+    "repository": "https://github.com/ydkingv1/YD KING-V1",
     "website":   "maintainence",
     "success_url": "maintainence",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+        "KING_SESSION": {
+            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Knig Session.",
             "required": true
         },
         "SUDO": {
@@ -94,7 +94,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━╼⤏💘Aͣmͫaͣls͛eͤrͬ  Вⷡoͦᴛⷮ💘⤎╾━━•"
+            "value": "YASIR DOGAR BOT-MD"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
