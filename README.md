@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=1652944797899.jpg>
+  [![YASIR](<img src=1652944797899.jpg>
  https://github.com/ydkingv1 |  
 ----|
-[Its_me_Richu](https://github.com/ydkingv1)  |
+[Its_me_YASIR](https://github.com/ydkingv1)  |
 Base, Bug Fixes, Modules | 
   
     
