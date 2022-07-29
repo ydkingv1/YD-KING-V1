@@ -12,7 +12,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/ydkingv1/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HdHwhTrzSbh7WGvz4IzUqF) 
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ydkingv1&repo=PublicBot&theme=nightowl)](https://github.com/ydkingv1_dpz/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ydkingv1&repo=PublicBot&theme=nightowl)](https://github.com/ydkingv1/PublicBot)
   </div>
     
 ## Setup
@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ydkingv1/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ydkingv1/YD KING-V1)
      </div>
 <br>
 <br >
